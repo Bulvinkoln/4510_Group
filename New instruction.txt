@@ -1,0 +1,5 @@
+Git is the most useful tool available for beginners.
+The best way to learn it is to practice in a certain programmes.
+Some of them can be found online.
+Others are specifically designed to be a part of student's offline programme.
+All you need is to communicate with your corse teacher in order to get further information about git.
