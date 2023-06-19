@@ -5,3 +5,5 @@
 ### git status проверка статуса
 
 ### git commit -m "text" коммитим
+
+### git log вторая проверка
